@@ -1,5 +1,6 @@
 Static Truss
-    + The script file can take '.mat' file as input.
+    + The script file can take '.mat' file as input. 
+    + 'truss_1, truss_2, truss_3, truss_4' are the example inputs in this case - each with different conditions and load bearing properties.
     + Input file contains different parameters - Coordinate matrix, Connectivity matrix, Bearings matrix and Froce matrix.
     + Script loads these inputs, plot the connection plot and calculate degree of freedom of the given sytem.
     + Based on the inputs, it can determine the load bearing capacity of the system and compute coefficient matrix.
